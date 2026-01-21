@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "dependencies": {
+    "ag-grid-react": "^35.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.6",
+    "@babel/preset-env": "^7.28.6",
+    "@babel/preset-react": "^7.28.5",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
