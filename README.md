@@ -16,4 +16,4 @@ shiny::runApp()
 aggrid(iris)
 ```
 
-![](images/clipboard-1805046770.png)
+![](inst/screenshots/Screenshot1.png)
