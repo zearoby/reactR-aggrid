@@ -4,13 +4,13 @@ R interface to react ag-grid
 
 ### Load aggrid package
 
-``` R
+``` r
 devtools::load_all()
 ```
 
 ### Run examples
 
-``` R
+``` r
 shiny::runApp()
 # or
 aggrid(iris)
